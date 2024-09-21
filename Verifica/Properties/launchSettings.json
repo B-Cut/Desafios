@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Verifica": {
+      "commandName": "Project",
+      "commandLineArgs": "Teste\r\nAaaAaaA\r\nEspada"
+    }
+  }
+}
